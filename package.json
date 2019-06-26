@@ -1,0 +1,22 @@
+{
+    "name": "facebook-black",
+    "displayName": "Facebook Black",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "mikaelkristiansson",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Facebook Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Facebook Black-color-theme.json"
+            }
+        ]
+    }
+}
